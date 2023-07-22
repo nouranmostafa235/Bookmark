@@ -1,0 +1,44 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #F7ECDE;
+}
+
+.subtitle {
+    font-family: 'Righteous', cursive;
+    background-image: linear-gradient(to right, #3ca55c, #b5ac49);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.visitbtn{
+    background-color: rgb(168, 191, 38);
+}
+.visitbtn:hover{
+    background-color: #8A9E23;
+}
+.deletbtn:hover{
+ background-color: #D30820 ;
+ color: white;
+}
+
+.dots {
+    height: 6px;
+    border-top: 2px dotted black;
+}
+
+.submit_btn {
+    background-color: rgb(224, 75, 38);
+
+}
+
+.submit_btn:hover {
+    background-color: #BB4120;
+}
+
+.main-title {
+    font-family: 'Pacifico', cursive;
+    size: 50px;
+    Color: rgb(53, 46, 40);
+
+}
